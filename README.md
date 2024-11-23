@@ -76,8 +76,8 @@ p
 **Clone and Install Script**
 
 ```shell script
-git clone https://github.com/gkvai1998/TUPADREDDoS.git
-cd TUPADREDDoS
+git clone https://github.com/gkvai1998/DABDDoS.git
+cd DABDDoS
 pip install -r requirements.txt
 ```
 
